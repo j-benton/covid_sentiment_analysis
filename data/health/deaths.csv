@@ -1,0 +1,101 @@
+date,state,cov_deaths
+2020-04-04,Alabama,49.0
+2020-04-11,Alabama,80.0
+2020-04-18,Alabama,88.0
+2020-04-25,Alabama,80.0
+2020-05-02,Alabama,75.0
+2020-04-04,Alaska,
+2020-04-11,Alaska,
+2020-04-18,Alaska,
+2020-04-25,Alaska,0.0
+2020-05-02,Alaska,0.0
+2020-04-04,Arkansas,
+2020-04-11,Arkansas,12.0
+2020-04-18,Arkansas,12.0
+2020-04-25,Arkansas,13.0
+2020-05-02,Arkansas,19.0
+2020-04-04,District of Columbia,25.0
+2020-04-11,District of Columbia,35.0
+2020-04-18,District of Columbia,53.0
+2020-04-25,District of Columbia,80.0
+2020-05-02,District of Columbia,65.0
+2020-04-04,Florida,217.0
+2020-04-11,Florida,300.0
+2020-04-18,Florida,307.0
+2020-04-25,Florida,318.0
+2020-05-02,Florida,301.0
+2020-04-04,Hawaii,
+2020-04-11,Hawaii,
+2020-04-18,Hawaii,
+2020-04-25,Hawaii,
+2020-05-02,Hawaii,
+2020-04-04,Massachusetts,226.0
+2020-04-11,Massachusetts,632.0
+2020-04-18,Massachusetts,1085.0
+2020-04-25,Massachusetts,1144.0
+2020-05-02,Massachusetts,984.0
+2020-04-04,Mississippi,53.0
+2020-04-11,Mississippi,63.0
+2020-04-18,Mississippi,63.0
+2020-04-25,Mississippi,59.0
+2020-05-02,Mississippi,90.0
+2020-04-04,Nebraska,
+2020-04-11,Nebraska,10.0
+2020-04-18,Nebraska,16.0
+2020-04-25,Nebraska,25.0
+2020-05-02,Nebraska,19.0
+2020-04-04,New Hampshire,10.0
+2020-04-11,New Hampshire,17.0
+2020-04-18,New Hampshire,16.0
+2020-04-25,New Hampshire,18.0
+2020-05-02,New Hampshire,32.0
+2020-04-04,New Jersey,1216.0
+2020-04-11,New Jersey,2295.0
+2020-04-18,New Jersey,2393.0
+2020-04-25,New Jersey,1844.0
+2020-05-02,New Jersey,1301.0
+2020-04-04,New York,999.0
+2020-04-11,New York,1947.0
+2020-04-18,New York,1925.0
+2020-04-25,New York,1414.0
+2020-05-02,New York,957.0
+2020-04-04,Oklahoma,41.0
+2020-04-11,Oklahoma,51.0
+2020-04-18,Oklahoma,43.0
+2020-04-25,Oklahoma,42.0
+2020-05-02,Oklahoma,38.0
+2020-04-04,Rhode Island,21.0
+2020-04-11,Rhode Island,46.0
+2020-04-18,Rhode Island,88.0
+2020-04-25,Rhode Island,96.0
+2020-05-02,Rhode Island,110.0
+2020-04-04,South Dakota,
+2020-04-11,South Dakota,
+2020-04-18,South Dakota,
+2020-04-25,South Dakota,
+2020-05-02,South Dakota,16.0
+2020-04-04,Texas,121.0
+2020-04-11,Texas,200.0
+2020-04-18,Texas,225.0
+2020-04-25,Texas,210.0
+2020-05-02,Texas,210.0
+2020-04-04,Utah,11.0
+2020-04-11,Utah,
+2020-04-18,Utah,
+2020-04-25,Utah,16.0
+2020-05-02,Utah,12.0
+2020-04-04,Washington,153.0
+2020-04-11,Washington,137.0
+2020-04-18,Washington,112.0
+2020-04-25,Washington,100.0
+2020-05-02,Washington,74.0
+2020-04-04,West Virginia,
+2020-04-11,West Virginia,
+2020-04-18,West Virginia,12.0
+2020-04-25,West Virginia,15.0
+2020-05-02,West Virginia,16.0
+2020-04-04,Wyoming,0.0
+2020-04-11,Wyoming,
+2020-04-18,Wyoming,
+2020-04-25,Wyoming,
+2020-05-02,Wyoming,0.0

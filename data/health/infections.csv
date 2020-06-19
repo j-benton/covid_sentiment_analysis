@@ -1,0 +1,461 @@
+state,date,confirmed_infections,top_10
+Alabama,2020-04-08,159.0,0
+Alabama,2020-04-09,375.0,0
+Alabama,2020-04-10,244.0,0
+Alabama,2020-04-11,270.0,0
+Alabama,2020-04-12,346.0,0
+Alabama,2020-04-13,171.0,0
+Alabama,2020-04-14,219.0,0
+Alabama,2020-04-15,122.0,0
+Alabama,2020-04-16,270.0,0
+Alabama,2020-04-17,226.0,0
+Alabama,2020-04-18,141.0,0
+Alabama,2020-04-19,176.0,0
+Alabama,2020-04-20,167.0,0
+Alabama,2020-04-21,241.0,0
+Alabama,2020-04-22,276.0,0
+Alabama,2020-04-23,244.0,0
+Alabama,2020-04-24,16.0,0
+Alabama,2020-04-25,375.0,0
+Alabama,2020-04-26,63.0,0
+Alabama,2020-04-27,269.0,0
+Alabama,2020-04-28,211.0,0
+Alabama,2020-04-29,162.0,0
+Alabama,2020-04-30,176.0,0
+Alaska,2020-04-08,13.0,1
+Alaska,2020-04-09,9.0,1
+Alaska,2020-04-10,11.0,1
+Alaska,2020-04-11,11.0,1
+Alaska,2020-04-12,15.0,1
+Alaska,2020-04-13,5.0,1
+Alaska,2020-04-14,8.0,1
+Alaska,2020-04-15,8.0,1
+Alaska,2020-04-16,7.0,1
+Alaska,2020-04-17,9.0,1
+Alaska,2020-04-18,5.0,1
+Alaska,2020-04-19,5.0,1
+Alaska,2020-04-20,2.0,1
+Alaska,2020-04-21,8.0,1
+Alaska,2020-04-22,6.0,1
+Alaska,2020-04-23,2.0,1
+Alaska,2020-04-24,2.0,1
+Alaska,2020-04-25,0.0,1
+Alaska,2020-04-26,1.0,1
+Alaska,2020-04-27,5.0,1
+Alaska,2020-04-28,6.0,1
+Alaska,2020-04-29,4.0,1
+Alaska,2020-04-30,0.0,1
+Arkansas,2020-04-08,54.0,0
+Arkansas,2020-04-09,119.0,0
+Arkansas,2020-04-10,52.0,0
+Arkansas,2020-04-11,57.0,0
+Arkansas,2020-04-12,52.0,0
+Arkansas,2020-04-13,130.0,0
+Arkansas,2020-04-14,88.0,0
+Arkansas,2020-04-15,71.0,0
+Arkansas,2020-04-16,51.0,0
+Arkansas,2020-04-17,75.0,0
+Arkansas,2020-04-18,49.0,0
+Arkansas,2020-04-19,37.0,0
+Arkansas,2020-04-20,192.0,0
+Arkansas,2020-04-21,17.0,0
+Arkansas,2020-04-22,286.0,0
+Arkansas,2020-04-23,323.0,0
+Arkansas,2020-04-24,211.0,0
+Arkansas,2020-04-25,101.0,0
+Arkansas,2020-04-26,90.0,0
+Arkansas,2020-04-27,68.0,0
+Arkansas,2020-04-28,58.0,0
+Arkansas,2020-04-29,66.0,0
+Arkansas,2020-04-30,88.0,0
+District of Columbia,2020-04-08,229.0,1
+District of Columbia,2020-04-09,83.0,1
+District of Columbia,2020-04-10,137.0,1
+District of Columbia,2020-04-11,118.0,1
+District of Columbia,2020-04-12,97.0,1
+District of Columbia,2020-04-13,80.0,1
+District of Columbia,2020-04-14,103.0,1
+District of Columbia,2020-04-15,139.0,1
+District of Columbia,2020-04-16,153.0,1
+District of Columbia,2020-04-17,126.0,1
+District of Columbia,2020-04-18,190.0,1
+District of Columbia,2020-04-19,127.0,1
+District of Columbia,2020-04-20,134.0,1
+District of Columbia,2020-04-21,171.0,1
+District of Columbia,2020-04-22,108.0,1
+District of Columbia,2020-04-23,155.0,1
+District of Columbia,2020-04-24,167.0,1
+District of Columbia,2020-04-25,171.0,1
+District of Columbia,2020-04-26,142.0,1
+District of Columbia,2020-04-27,51.0,1
+District of Columbia,2020-04-28,102.0,1
+District of Columbia,2020-04-29,112.0,1
+District of Columbia,2020-04-30,217.0,1
+Florida,2020-04-08,911.0,0
+Florida,2020-04-09,908.0,0
+Florida,2020-04-10,1167.0,0
+Florida,2020-04-11,963.0,0
+Florida,2020-04-12,1401.0,0
+Florida,2020-04-13,1124.0,0
+Florida,2020-04-14,609.0,0
+Florida,2020-04-15,883.0,0
+Florida,2020-04-16,832.0,0
+Florida,2020-04-17,1416.0,0
+Florida,2020-04-18,733.0,0
+Florida,2020-04-19,822.0,0
+Florida,2020-04-20,745.0,0
+Florida,2020-04-21,810.0,0
+Florida,2020-04-22,440.0,0
+Florida,2020-04-23,1339.0,0
+Florida,2020-04-24,885.0,0
+Florida,2020-04-25,306.0,0
+Florida,2020-04-26,693.0,0
+Florida,2020-04-27,606.0,0
+Florida,2020-04-28,710.0,0
+Florida,2020-04-29,345.0,0
+Florida,2020-04-30,497.0,0
+Hawaii,2020-04-08,25.0,1
+Hawaii,2020-04-09,7.0,1
+Hawaii,2020-04-10,23.0,1
+Hawaii,2020-04-11,21.0,1
+Hawaii,2020-04-12,13.0,1
+Hawaii,2020-04-13,5.0,1
+Hawaii,2020-04-14,13.0,1
+Hawaii,2020-04-15,13.0,1
+Hawaii,2020-04-16,11.0,1
+Hawaii,2020-04-17,12.0,1
+Hawaii,2020-04-18,21.0,1
+Hawaii,2020-04-19,6.0,1
+Hawaii,2020-04-20,4.0,1
+Hawaii,2020-04-21,2.0,1
+Hawaii,2020-04-22,6.0,1
+Hawaii,2020-04-23,4.0,1
+Hawaii,2020-04-24,5.0,1
+Hawaii,2020-04-25,3.0,1
+Hawaii,2020-04-26,2.0,1
+Hawaii,2020-04-27,1.0,1
+Hawaii,2020-04-28,2.0,1
+Hawaii,2020-04-29,4.0,1
+Hawaii,2020-04-30,5.0,1
+Massachusetts,2020-04-08,1648.0,1
+Massachusetts,2020-04-09,2231.0,1
+Massachusetts,2020-04-10,2109.0,1
+Massachusetts,2020-04-11,1956.0,1
+Massachusetts,2020-04-12,2713.0,1
+Massachusetts,2020-04-13,1444.0,1
+Massachusetts,2020-04-14,1345.0,1
+Massachusetts,2020-04-15,1820.0,1
+Massachusetts,2020-04-16,2348.0,1
+Massachusetts,2020-04-17,2304.0,1
+Massachusetts,2020-04-18,2043.0,1
+Massachusetts,2020-04-19,1769.0,1
+Massachusetts,2020-04-20,41.0,1
+Massachusetts,2020-04-21,3198.0,1
+Massachusetts,2020-04-22,1810.0,1
+Massachusetts,2020-04-23,3193.0,1
+Massachusetts,2020-04-24,5131.0,1
+Massachusetts,2020-04-25,2468.0,1
+Massachusetts,2020-04-26,1650.0,1
+Massachusetts,2020-04-27,1581.0,1
+Massachusetts,2020-04-28,1909.0,1
+Massachusetts,2020-04-29,2036.0,1
+Massachusetts,2020-04-30,2012.0,1
+Mississippi,2020-04-08,88.0,0
+Mississippi,2020-04-09,257.0,0
+Mississippi,2020-04-10,209.0,0
+Mississippi,2020-04-11,173.0,0
+Mississippi,2020-04-12,139.0,0
+Mississippi,2020-04-13,161.0,0
+Mississippi,2020-04-14,145.0,0
+Mississippi,2020-04-15,273.0,0
+Mississippi,2020-04-16,264.0,0
+Mississippi,2020-04-17,169.0,0
+Mississippi,2020-04-18,181.0,0
+Mississippi,2020-04-19,300.0,0
+Mississippi,2020-04-20,238.0,0
+Mississippi,2020-04-21,204.0,0
+Mississippi,2020-04-22,178.0,0
+Mississippi,2020-04-23,259.0,0
+Mississippi,2020-04-24,281.0,0
+Mississippi,2020-04-25,284.0,0
+Mississippi,2020-04-26,193.0,0
+Mississippi,2020-04-27,183.0,0
+Mississippi,2020-04-28,248.0,0
+Mississippi,2020-04-29,227.0,0
+Mississippi,2020-04-30,246.0,0
+Nebraska,2020-04-08,72.0,0
+Nebraska,2020-04-09,49.0,0
+Nebraska,2020-04-10,67.0,0
+Nebraska,2020-04-11,64.0,0
+Nebraska,2020-04-12,92.0,0
+Nebraska,2020-04-13,23.0,0
+Nebraska,2020-04-14,83.0,0
+Nebraska,2020-04-15,4.0,0
+Nebraska,2020-04-16,51.0,0
+Nebraska,2020-04-17,114.0,0
+Nebraska,2020-04-18,183.0,0
+Nebraska,2020-04-19,225.0,0
+Nebraska,2020-04-20,174.0,0
+Nebraska,2020-04-21,37.0,0
+Nebraska,2020-04-22,128.0,0
+Nebraska,2020-04-23,389.0,0
+Nebraska,2020-04-24,222.0,0
+Nebraska,2020-04-25,295.0,0
+Nebraska,2020-04-26,309.0,0
+Nebraska,2020-04-27,330.0,0
+Nebraska,2020-04-28,159.0,0
+Nebraska,2020-04-29,334.0,0
+Nebraska,2020-04-30,430.0,0
+New Hampshire,2020-04-08,41.0,1
+New Hampshire,2020-04-09,31.0,1
+New Hampshire,2020-04-10,66.0,1
+New Hampshire,2020-04-11,44.0,1
+New Hampshire,2020-04-12,56.0,1
+New Hampshire,2020-04-13,35.0,1
+New Hampshire,2020-04-14,71.0,1
+New Hampshire,2020-04-15,48.0,1
+New Hampshire,2020-04-16,0.0,1
+New Hampshire,2020-04-17,148.0,1
+New Hampshire,2020-04-18,55.0,1
+New Hampshire,2020-04-19,48.0,1
+New Hampshire,2020-04-20,57.0,1
+New Hampshire,2020-04-21,43.0,1
+New Hampshire,2020-04-22,98.0,1
+New Hampshire,2020-04-23,82.0,1
+New Hampshire,2020-04-24,50.0,1
+New Hampshire,2020-04-25,67.0,1
+New Hampshire,2020-04-26,77.0,1
+New Hampshire,2020-04-27,74.0,1
+New Hampshire,2020-04-28,72.0,1
+New Hampshire,2020-04-29,48.0,1
+New Hampshire,2020-04-30,88.0,1
+New Jersey,2020-04-08,3021.0,1
+New Jersey,2020-04-09,3590.0,1
+New Jersey,2020-04-10,3561.0,1
+New Jersey,2020-04-11,3563.0,1
+New Jersey,2020-04-12,3699.0,1
+New Jersey,2020-04-13,2734.0,1
+New Jersey,2020-04-14,4240.0,1
+New Jersey,2020-04-15,2206.0,1
+New Jersey,2020-04-16,4287.0,1
+New Jersey,2020-04-17,3150.0,1
+New Jersey,2020-04-18,2953.0,1
+New Jersey,2020-04-19,3881.0,1
+New Jersey,2020-04-20,3421.0,1
+New Jersey,2020-04-21,3665.0,1
+New Jersey,2020-04-22,3527.0,1
+New Jersey,2020-04-23,4111.0,1
+New Jersey,2020-04-24,2171.0,1
+New Jersey,2020-04-25,3302.0,1
+New Jersey,2020-04-26,3540.0,1
+New Jersey,2020-04-27,2150.0,1
+New Jersey,2020-04-28,2668.0,1
+New Jersey,2020-04-29,2509.0,1
+New Jersey,2020-04-30,2287.0,1
+New York,2020-04-08,11434.0,1
+New York,2020-04-09,10947.0,1
+New York,2020-04-10,10788.0,1
+New York,2020-04-11,8892.0,1
+New York,2020-04-12,8206.0,1
+New York,2020-04-13,6928.0,1
+New York,2020-04-14,7495.0,1
+New York,2020-04-15,11618.0,1
+New York,2020-04-16,9363.0,1
+New York,2020-04-17,7080.0,1
+New York,2020-04-18,6944.0,1
+New York,2020-04-19,6293.0,1
+New York,2020-04-20,5221.0,1
+New York,2020-04-21,5012.0,1
+New York,2020-04-22,5064.0,1
+New York,2020-04-23,5150.0,1
+New York,2020-04-24,8266.0,1
+New York,2020-04-25,10683.0,1
+New York,2020-04-26,6012.0,1
+New York,2020-04-27,4077.0,1
+New York,2020-04-28,3285.0,1
+New York,2020-04-29,4719.0,1
+New York,2020-04-30,4704.0,1
+Oklahoma,2020-04-08,52.0,0
+Oklahoma,2020-04-09,160.0,0
+Oklahoma,2020-04-10,108.0,0
+Oklahoma,2020-04-11,74.0,0
+Oklahoma,2020-04-12,102.0,0
+Oklahoma,2020-04-13,99.0,0
+Oklahoma,2020-04-14,115.0,0
+Oklahoma,2020-04-15,79.0,0
+Oklahoma,2020-04-16,94.0,0
+Oklahoma,2020-04-17,108.0,0
+Oklahoma,2020-04-18,105.0,0
+Oklahoma,2020-04-19,29.0,0
+Oklahoma,2020-04-20,81.0,0
+Oklahoma,2020-04-21,127.0,0
+Oklahoma,2020-04-22,87.0,0
+Oklahoma,2020-04-23,123.0,0
+Oklahoma,2020-04-24,104.0,0
+Oklahoma,2020-04-25,73.0,0
+Oklahoma,2020-04-26,60.0,0
+Oklahoma,2020-04-27,27.0,0
+Oklahoma,2020-04-28,129.0,0
+Oklahoma,2020-04-29,63.0,0
+Oklahoma,2020-04-30,145.0,0
+Rhode Island,2020-04-08,221.0,1
+Rhode Island,2020-04-09,277.0,1
+Rhode Island,2020-04-10,288.0,1
+Rhode Island,2020-04-11,334.0,1
+Rhode Island,2020-04-12,316.0,1
+Rhode Island,2020-04-13,311.0,1
+Rhode Island,2020-04-14,275.0,1
+Rhode Island,2020-04-15,278.0,1
+Rhode Island,2020-04-16,309.0,1
+Rhode Island,2020-04-17,339.0,1
+Rhode Island,2020-04-18,314.0,1
+Rhode Island,2020-04-19,215.0,1
+Rhode Island,2020-04-20,384.0,1
+Rhode Island,2020-04-21,410.0,1
+Rhode Island,2020-04-22,341.0,1
+Rhode Island,2020-04-23,415.0,1
+Rhode Island,2020-04-24,443.0,1
+Rhode Island,2020-04-25,430.0,1
+Rhode Island,2020-04-26,310.0,1
+Rhode Island,2020-04-27,269.0,1
+Rhode Island,2020-04-28,219.0,1
+Rhode Island,2020-04-29,320.0,1
+Rhode Island,2020-04-30,374.0,1
+South Dakota,2020-04-08,73.0,0
+South Dakota,2020-04-09,54.0,0
+South Dakota,2020-04-10,89.0,0
+South Dakota,2020-04-11,90.0,0
+South Dakota,2020-04-12,104.0,0
+South Dakota,2020-04-13,138.0,0
+South Dakota,2020-04-14,120.0,0
+South Dakota,2020-04-15,180.0,0
+South Dakota,2020-04-16,143.0,0
+South Dakota,2020-04-17,100.0,0
+South Dakota,2020-04-18,131.0,0
+South Dakota,2020-04-19,93.0,0
+South Dakota,2020-04-20,50.0,0
+South Dakota,2020-04-21,70.0,0
+South Dakota,2020-04-22,103.0,0
+South Dakota,2020-04-23,98.0,0
+South Dakota,2020-04-24,84.0,0
+South Dakota,2020-04-25,107.0,0
+South Dakota,2020-04-26,65.0,0
+South Dakota,2020-04-27,32.0,0
+South Dakota,2020-04-28,69.0,0
+South Dakota,2020-04-29,60.0,0
+South Dakota,2020-04-30,76.0,0
+Texas,2020-04-08,852.0,0
+Texas,2020-04-09,1431.0,0
+Texas,2020-04-10,897.0,0
+Texas,2020-04-11,918.0,0
+Texas,2020-04-12,654.0,0
+Texas,2020-04-13,598.0,0
+Texas,2020-04-14,731.0,0
+Texas,2020-04-15,901.0,0
+Texas,2020-04-16,969.0,0
+Texas,2020-04-17,973.0,0
+Texas,2020-04-18,855.0,0
+Texas,2020-04-19,556.0,0
+Texas,2020-04-20,491.0,0
+Texas,2020-04-21,823.0,0
+Texas,2020-04-22,747.0,0
+Texas,2020-04-23,1329.0,0
+Texas,2020-04-24,992.0,0
+Texas,2020-04-25,511.0,0
+Texas,2020-04-26,814.0,0
+Texas,2020-04-27,354.0,0
+Texas,2020-04-28,1036.0,0
+Texas,2020-04-29,900.0,0
+Texas,2020-04-30,1470.0,0
+Utah,2020-04-08,109.0,0
+Utah,2020-04-09,1.0,0
+Utah,2020-04-10,247.0,0
+Utah,2020-04-11,104.0,0
+Utah,2020-04-12,96.0,0
+Utah,2020-04-13,60.0,0
+Utah,2020-04-14,54.0,0
+Utah,2020-04-15,131.0,0
+Utah,2020-04-16,135.0,0
+Utah,2020-04-17,110.0,0
+Utah,2020-04-18,124.0,0
+Utah,2020-04-19,152.0,0
+Utah,2020-04-20,144.0,0
+Utah,2020-04-21,84.0,0
+Utah,2020-04-22,148.0,0
+Utah,2020-04-23,167.0,0
+Utah,2020-04-24,170.0,0
+Utah,2020-04-25,166.0,0
+Utah,2020-04-26,175.0,0
+Utah,2020-04-27,113.0,0
+Utah,2020-04-28,109.0,0
+Utah,2020-04-29,152.0,0
+Utah,2020-04-30,175.0,0
+Washington,2020-04-08,282.0,1
+Washington,2020-04-09,286.0,1
+Washington,2020-04-10,275.0,1
+Washington,2020-04-11,210.0,1
+Washington,2020-04-12,167.0,1
+Washington,2020-04-13,300.0,1
+Washington,2020-04-14,224.0,1
+Washington,2020-04-15,312.0,1
+Washington,2020-04-16,255.0,1
+Washington,2020-04-17,301.0,1
+Washington,2020-04-18,233.0,1
+Washington,2020-04-19,174.0,1
+Washington,2020-04-20,305.0,1
+Washington,2020-04-21,241.0,1
+Washington,2020-04-22,237.0,1
+Washington,2020-04-23,254.0,1
+Washington,2020-04-24,287.0,1
+Washington,2020-04-25,192.0,1
+Washington,2020-04-26,180.0,1
+Washington,2020-04-27,273.0,1
+Washington,2020-04-28,233.0,1
+Washington,2020-04-29,242.0,1
+Washington,2020-04-30,261.0,1
+West Virginia,2020-04-08,71.0,1
+West Virginia,2020-04-09,31.0,1
+West Virginia,2020-04-10,60.0,1
+West Virginia,2020-04-11,3.0,1
+West Virginia,2020-04-12,16.0,1
+West Virginia,2020-04-13,18.0,1
+West Virginia,2020-04-14,29.0,1
+West Virginia,2020-04-15,62.0,1
+West Virginia,2020-04-16,26.0,1
+West Virginia,2020-04-17,47.0,1
+West Virginia,2020-04-18,10.0,1
+West Virginia,2020-04-19,105.0,1
+West Virginia,2020-04-20,12.0,1
+West Virginia,2020-04-21,6.0,1
+West Virginia,2020-04-22,31.0,1
+West Virginia,2020-04-23,42.0,1
+West Virginia,2020-04-24,29.0,1
+West Virginia,2020-04-25,0.0,1
+West Virginia,2020-04-26,45.0,1
+West Virginia,2020-04-27,8.0,1
+West Virginia,2020-04-28,32.0,1
+West Virginia,2020-04-29,15.0,1
+West Virginia,2020-04-30,15.0,1
+Wyoming,2020-04-08,7.0,0
+Wyoming,2020-04-09,9.0,0
+Wyoming,2020-04-10,37.0,0
+Wyoming,2020-04-11,3.0,0
+Wyoming,2020-04-12,21.0,0
+Wyoming,2020-04-13,9.0,0
+Wyoming,2020-04-14,10.0,0
+Wyoming,2020-04-15,10.0,0
+Wyoming,2020-04-16,8.0,0
+Wyoming,2020-04-17,11.0,0
+Wyoming,2020-04-18,10.0,0
+Wyoming,2020-04-19,4.0,0
+Wyoming,2020-04-20,2.0,0
+Wyoming,2020-04-21,15.0,0
+Wyoming,2020-04-22,4.0,0
+Wyoming,2020-04-23,6.0,0
+Wyoming,2020-04-24,20.0,0
+Wyoming,2020-04-25,18.0,0
+Wyoming,2020-04-26,11.0,0
+Wyoming,2020-04-27,18.0,0
+Wyoming,2020-04-28,16.0,0
+Wyoming,2020-04-29,9.0,0
+Wyoming,2020-04-30,14.0,0
